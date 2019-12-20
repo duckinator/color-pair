@@ -1,0 +1,8 @@
+/.eggs/
+/.pytest_cache/
+/.tox/
+/build/
+/dist/
+/*.egg-info/
+/venv
+__pycache__
